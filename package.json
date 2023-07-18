@@ -1,0 +1,18 @@
+{
+  "name": "@webpart/config",
+  "version": "2.0.6",
+  "description": "针对 webpart 命令行的通用配置。",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "micty",
+  "email": "mictydeng@qq.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-part/config.git"
+  },
+  "dependencies": {
+    "@definejs/object": "^1.1.0"
+  }
+}
